@@ -1,0 +1,5 @@
+hidden = true
+cmd = '''
+barriarc.exe
+barriars.exe
+'''
